@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Drum-Pad:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Drum_Pad_jar</output-path>
+    <root id="archive" name="Drum-Pad.jar">
+      <element id="module-output" name="Drum-Pad" />
+    </root>
+  </artifact>
+</component>
